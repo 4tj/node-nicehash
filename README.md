@@ -1,6 +1,8 @@
 # node-nicehash
 > [nicehash.com](https://www.nicehash.com/docs) nodejs api client
 
+I only abstracted some of my commonly used APIs. If there is a need for support, I will welcome issue feedback and I will add it, and PR is very welcome
+
 ### Installation
 ```bash
 npm install node-nicehash
